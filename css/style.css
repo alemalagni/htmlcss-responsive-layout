@@ -80,7 +80,8 @@ h4 {
 .social > div {
     background-color: #ffffff;
     padding: 10px 15px;
-    border-radius: 30%;
+    border-radius: 20px;
+    text-align: center;
 }
 
 .tab {
@@ -139,5 +140,19 @@ ul {
 @media screen and (min-width: 768px) {
     .tab {
         display: inline;
+    }
+
+    .cont > ul {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .cont > ul > li {
+        width: calc(100% / 3);
+    }
+
+    .social > div {
+        width: calc(100% / 5);
+        margin: 0px 5px;
     }
 }
