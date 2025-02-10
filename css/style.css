@@ -35,6 +35,8 @@ main {
     background-color: lightgray;
 }
 
+/* First Section  */
+
 img {
     width: calc(100%);
 }
@@ -55,6 +57,19 @@ img {
     color: blueviolet;
     font-size: 25px;
     padding-bottom: 20px;
+}
+
+.cont {
+    padding: 30px 20px;
+}
+
+h4 {
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+
+.cont > ul > li {
+    padding-bottom: 10px;
 }
 
 /* Footer */
