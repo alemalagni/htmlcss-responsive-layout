@@ -82,6 +82,11 @@ h4 {
     padding: 10px 15px;
     border-radius: 30%;
 }
+
+.tab {
+    display: none;
+}
+
 /* Second Section */
 h2 {
     text-transform: uppercase;
@@ -131,6 +136,8 @@ ul {
 
 /* RESPONSIVE */
 
-@media screen and(max-width: 768px) {
-    
+@media screen and(min-width: 768px) {
+    .tab {
+        display: inline;
+    }
 }
