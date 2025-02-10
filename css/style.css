@@ -21,20 +21,12 @@
     font-weight: bold;
 }
 
-.testosini {
-    text-align: left;
-}
-
-/* Body */
-body {
-    text-align: center;
-}
-
 /* Header */
 h1 {
     font-family: 'Nerko One', cursive;
     color: orange;
     background-color: #ffffff;
+    text-align: center;
 }
 
 /* Main */
