@@ -228,6 +228,8 @@ ul {
     .foot {
         display: flex;
         justify-content: space-between;
-        flex-wrap: nowrap;
+        margin: 0px;
+        padding: 30px 15px;
+        text-align: left;
     }
 }
