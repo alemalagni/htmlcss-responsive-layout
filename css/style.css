@@ -30,9 +30,12 @@ h1 {
 }
 
 /* Main */
+body{
+    background-color: lightgray;
+}
+
 main {
     padding: 0px 20px;
-    background-color: lightgray;
 }
 
 /* First Section  */
@@ -233,5 +236,10 @@ ul {
         margin: 0px;
         padding: 30px 15px;
         text-align: left;
+    }
+
+    main {
+        width: 992px;
+        margin: 0px auto;
     }
 }
