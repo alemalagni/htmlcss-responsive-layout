@@ -4,6 +4,7 @@
     padding: 0px;
     box-sizing: border-box;
     font-family: Montserrat, 'Helvetica Neue', sans-serif;
+    background-color: lightgray;
 }
 
 /* Utilities classes */
@@ -24,4 +25,10 @@
 header {
     font-family: 'Nerko One', cursive;
     color: orange;
+    background-color: #ffffff;
+}
+
+/* Footer */
+footer {
+    background-color: blueviolet;
 }
