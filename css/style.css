@@ -111,11 +111,16 @@ footer > div {
     text-align: center;
     background-color: blueviolet;
     color: #ffffff;
+    padding: 30px 20px;
 }
 
 .lista {
     flex-wrap: wrap;
     justify-content: space-around;
+    
+}
+
+a {
     color: #ffffff;
 }
 
