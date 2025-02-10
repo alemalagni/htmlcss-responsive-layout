@@ -20,6 +20,11 @@
 .bold {
     font-weight: bold;
 }
+
+.testosini {
+    text-align: left;
+}
+
 /* Body */
 body {
     text-align: center;
@@ -39,6 +44,15 @@ h1 {
 
 .container {
     background-color: #ffffff;
+}
+
+.sottotesto {
+    color: gray;
+    text-transform: uppercase;
+}
+
+.sottotitolo {
+    color: blueviolet;
 }
 
 /* Footer */
