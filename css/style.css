@@ -29,8 +29,8 @@ h1 {
 }
 
 /* Main */
-.main {
-    margin: 0px 20px;
+main {
+    padding: 0px 20px;
     background-color: lightgray;
 }
 
