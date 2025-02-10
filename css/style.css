@@ -54,3 +54,13 @@ footer > div {
     background-color: blueviolet;
     color: #ffffff;
 }
+
+.lista {
+    flex-wrap: wrap;
+    justify-content: space-around;
+    color: #ffffff;
+}
+
+ul {
+    list-style: none;
+}
