@@ -117,9 +117,12 @@ img {
 }
 
 /* Footer */
+footer {
+    background-color: blueviolet;
+}
+
 footer > div {
     text-align: center;
-    background-color: blueviolet;
     color: #ffffff;
     padding: 30px 18px;
 }
@@ -171,5 +174,10 @@ ul {
         float: left;
         width: 35%;
         padding: 0px;
+    }
+
+    footer > div {
+        margin: 0px 100px;
+        padding-bottom: 20px;
     }
 }
