@@ -83,8 +83,14 @@ h4 {
     border-radius: 30%;
 }
 /* Second Section */
+h2 {
+    text-transform: uppercase;
+    padding-bottom: 10px;
+}
+
 .sepa {
     border-bottom: 1px solid orange;
+    width: 15%;
 }
 
 /* Footer */
