@@ -16,3 +16,12 @@
     flex-direction: column;
 }
 
+.bold {
+    font-weight: bold;
+}
+
+/* Header */
+header {
+    font-family: 'Nerko One', cursive;
+    color: orange;
+}
