@@ -42,6 +42,7 @@ img {
 .container {
     background-color: #ffffff;
     width: calc(100%);
+    border-radius: 1%;
 }
 
 .sottotesto {
@@ -53,6 +54,7 @@ img {
 .sottotitolo {
     color: blueviolet;
     font-size: 25px;
+    padding-bottom: 20px;
 }
 
 /* Footer */
