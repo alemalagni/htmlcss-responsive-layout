@@ -37,7 +37,7 @@ main {
 
 /* First Section  */
 
-img {
+div > img {
     width: calc(100%);
 }
 
@@ -93,6 +93,9 @@ h2 {
     width: 15%;
 }
 
+img {
+    width: 85%;
+}
 /* Footer */
 footer > div {
     text-align: center;
