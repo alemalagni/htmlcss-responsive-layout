@@ -192,5 +192,23 @@ ul {
 }
 
 @media screen and (min-width: 992px) {
-        
+    h1 {
+        font-size: 35px;
+    }
+
+    .container {
+        display: flex;
+    }
+
+    .cont {
+        width: calc(50%);
+    }
+
+    .cont > ul {
+        display: inline;
+    }
+
+    .cont > ul > li {
+        width: calc(100%);
+    }
 }
