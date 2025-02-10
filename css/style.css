@@ -91,11 +91,21 @@ h2 {
 .sepa {
     border-bottom: 1px solid orange;
     width: 15%;
+    margin-bottom: 20px;
 }
 
 img {
-    width: 85%;
+    display: block;
+    width: 65%;
+    margin: auto;
+    padding-bottom: 15px;
 }
+
+.text {
+    display: block;
+    padding-bottom: 50px;
+}
+
 /* Footer */
 footer > div {
     text-align: center;
