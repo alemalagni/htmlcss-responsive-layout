@@ -44,7 +44,7 @@ h1 {
 
 .container {
     background-color: #ffffff;
-    width: 100%;
+    width: calc(100%);
 }
 
 .sottotesto {
