@@ -128,3 +128,9 @@ a {
 ul {
     list-style: none;
 }
+
+/* RESPONSIVE */
+
+@media screen and(max-width: 768px) {
+    
+}
