@@ -28,7 +28,13 @@ header {
     background-color: #ffffff;
 }
 
+/* Main */
+.container {
+    background-color: #ffffff;
+}
+
 /* Footer */
 footer {
     background-color: blueviolet;
+    color: #ffffff;
 }
