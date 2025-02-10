@@ -90,13 +90,13 @@ h4 {
 
 .banner {
     display: none;
+    width: fit-content;
 }
 
 /* Second Section */
 h2 {
     text-transform: uppercase;
     padding-bottom: 10px;
-    display: block;
 }
 
 .sepa {
@@ -169,6 +169,10 @@ ul {
 
     .banner {
         display: block;
+    }
+
+    .banner > img {
+        padding-bottom: 10px;
     }
 
     img {
