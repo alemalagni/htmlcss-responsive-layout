@@ -163,6 +163,8 @@ ul {
     }
     .tab {
         display: inline;
+        height: fit-content;
+        margin: 0px auto;
     }
 
     .cont > ul {
