@@ -189,7 +189,7 @@ ul {
 
     img {
         float: left;
-        width: 35%;
+        width: calc(35%);
         padding: 0px;
     }
 
